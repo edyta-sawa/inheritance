@@ -7,14 +7,17 @@ import inheritance.ghosts.Zombie;
 public class Inheritance {
     public static void main(String[] args) {
 
-        Ghost ghost = new Ghost(10, 100);
+        Ghost ghost = new Skeleton(10, 100);
         ghost.attack();
-        System.out.println(ghost.getSpeed());
+        //System.out.println(ghost.getSpeed());
 
         Skeleton skeleton = new Skeleton(5, 50, "Bow");
         Zombie zombie = new Zombie();
-        skeleton.attack();
-        System.out.println(skeleton.getSpeed());
+        //System.out.println(skeleton.getSpeed());
         zombie.attack();
+        skeleton.attack();
+
+        Ghost g = new Skeleton(1, 20);
+        g.attack();
     }
 }

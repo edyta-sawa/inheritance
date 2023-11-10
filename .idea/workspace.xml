@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2258477e-9b99-4529-b980-11944d01d2d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/ghosts/Ghost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/ghosts/Skeleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/ghosts/Zombie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/Spider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Inheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/ghosts/Ghost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/ghosts/Ghost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/ghosts/Skeleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/ghosts/Skeleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/ghosts/Zombie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/ghosts/Zombie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +34,12 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="config" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="inheritance.Inheritance" />
@@ -62,6 +58,18 @@
       <option name="presentableId" value="Default" />
       <updated>1699446399389</updated>
     </task>
+    <task id="LOCAL-00001" summary="ghosts">
+      <created>1699463293521</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699463293521</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ghosts" />
+    <option name="LAST_COMMIT_MESSAGE" value="ghosts" />
   </component>
 </project>

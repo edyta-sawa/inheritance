@@ -1,11 +1,11 @@
 package inheritance.ghosts;
 
-public class Ghost {
-    public double getSpeed() {
+public abstract class Ghost {
+    protected double getSpeed() {
         return speed;
     }
 
-    public double getHp() {
+    protected double getHp() {
         return hp;
     }
 
@@ -15,6 +15,8 @@ public class Ghost {
     public void attack() {
         System.out.println("This is attack from the class Ghost.");
     }
+
+    protected abstract void description();
 
     public Ghost() {
         System.out.println("Default constructor from the class Ghost.");
